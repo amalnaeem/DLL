@@ -1,0 +1,4 @@
+﻿  Multiply.cpp
+c:\users\ok\source\repos\dll2\dll2\multiply.cpp(8): warning C4273: 'MathLibrary::multiply': inconsistent dll linkage
+  c:\users\ok\source\repos\dll2\dll2\mathlibrary.h(16): note: see previous definition of 'multiply'
+  Dll2.vcxproj -> C:\Users\OK\source\repos\Dll2\Debug\Dll2.dll

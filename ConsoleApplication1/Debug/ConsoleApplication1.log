@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+c:\users\ok\source\repos\dll2\consoleapplication1\consoleapplication1.cpp(20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ok\source\repos\dll2\consoleapplication1\consoleapplication1.cpp(31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\OK\source\repos\Dll2\Debug\ConsoleApplication1.exe
